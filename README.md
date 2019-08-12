@@ -12,15 +12,15 @@ Here are some sample conversations that you can have with Alexa.
 
 ### Example 1
 Alexa, I need to look up calories.  
-*Ok, tell me what you're eating?*  
+- *Ok, tell me what you're eating?*  
 how many calories in BigMac  
-*Calories in BigMac: 563*
+- *Calories in BigMac: 563*
 
 ### Example 2
 Alexa, i want to know how many calories i burned.  
-*Ok, tell me how many mile you ran or walked.*  
+- *Ok, tell me how many mile you ran or walked.*  
 i ran 5 miles and walked 2 miles  
-*You burned 572 calories running and burned 163 calories walking. Total of 735 calories. Good job!*
+- *You burned 572 calories running and burned 163 calories walking. Total of 735 calories. Good job!*
 
 # Technologies Used
 
