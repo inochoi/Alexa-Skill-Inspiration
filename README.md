@@ -25,5 +25,5 @@ i ran 5 miles and walked 2 miles
 # Technologies Used
 
 * [AWS Lambda](https://aws.amazon.com/lambda/). I deployed the source on Lambda to connect with Alexa Skills Kits.
-* [Nutritionix API](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/edit#). This is used to calculate calories in food and calories burned from exercise.
- - NOTE: An APP ID and API Key is required to use this service.
+* [Nutritionix API](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/edit#). This is used to calculate calories in food and calories burned from exercise. <br />
+ ** NOTE: An APP ID and API Key is required to use this service.
