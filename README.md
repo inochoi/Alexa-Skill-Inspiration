@@ -18,9 +18,9 @@ how many calories in BigMac <br />
 
 ### Example 2
 Alexa, i want to know how many calories i burned.  
-- *Ok, tell me how many mile you ran or walked.*  
-i ran 5 miles and walked 2 miles  
-- *You burned 572 calories running and burned 163 calories walking. Total of 735 calories. Good job!*
+<em>- Ok, tell me how many mile you ran or walked.</em> <br />
+i ran 5 miles and walked 2 miles   <br />
+<em>- You burned 572 calories running and burned 163 calories walking. Total of 735 calories. Good job!</em>
 
 # Technologies Used
 
