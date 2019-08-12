@@ -12,9 +12,9 @@ Here are some sample conversations that you can have with Alexa.
 
 ### Example 1
 Alexa, I need to look up calories.  
-<em>Ok, tell me what you're eating?</em> <br />
+<em>- Ok, tell me what you're eating?</em> <br />
 how many calories in BigMac <br />
-- *Calories in BigMac: 563*
+<em>- Calories in BigMac: 563</em>
 
 ### Example 2
 Alexa, i want to know how many calories i burned.  
