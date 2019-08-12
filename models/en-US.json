@@ -1,0 +1,142 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "inspiration",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "FoodIntent",
+                    "slots": [
+                        {
+                            "name": "food",
+                            "type": "AMAZON.Food"
+                        }
+                    ],
+                    "samples": [
+                        "{food}",
+                        "i want to know how many calories are in {food}",
+                        "how many calories in {food}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "LookupFoodIntent",
+                    "slots": [],
+                    "samples": [
+                        "calories",
+                        "I need to look up calories",
+                        "look up calories",
+                        "how many calories in my food"
+                    ]
+                },
+                {
+                    "name": "ExerciseIntent",
+                    "slots": [
+                        {
+                            "name": "run",
+                            "type": "AMAZON.NUMBER"
+                        },
+                        {
+                            "name": "walk",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "i walked {walk} miles and ran {run} miles",
+                        "i ran {run} miles and walked {walk} miles"
+                    ]
+                },
+                {
+                    "name": "LookupExerciseIntent",
+                    "slots": [],
+                    "samples": [
+                        "activity calculator",
+                        "i want to know how many calories i burned",
+                        "exercise"
+                    ]
+                },
+                {
+                    "name": "WalkIntent",
+                    "slots": [
+                        {
+                            "name": "walking",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "Walked {walking} miles",
+                        "I walked {walking} miles"
+                    ]
+                },
+                {
+                    "name": "RunIntent",
+                    "slots": [
+                        {
+                            "name": "running",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "Ran {running} miles",
+                        "I ran {running} miles"
+                    ]
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
